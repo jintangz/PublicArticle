@@ -6,7 +6,7 @@
 
 以<font color=red>第9期</font>内容中优惠券弹窗实验为例，假设在进行实验数据回收时发现实验组相对对照组的人均GMV有提升，但是细分到高消费人群和低消费人群后进行对比发现均无提升，请问这是什么原因导致的呐？请停下来思考10秒钟哦~
 
-![image-20250824104201750](/Users/kimzhao/Documents/gongzhonghao/PublicArticle/ABT/Chapter10.assets/image-20250824104201750.png)
+![image-20250824104201750](./Chapter10.assets/image-20250824104201750.png)
 
 ## 内容框架
 
@@ -16,7 +16,7 @@
 - 两个条件：构成差异、表现差异
 - 常见场景：逐步放量、错误的人群细分、样本合并、实验推全无效
 
-![image-20250831190341407](/Users/kimzhao/Documents/gongzhonghao/PublicArticle/ABT/Chapter10.assets/image-20250831190341407.png)
+![image-20250831190341407](./Chapter10.assets/image-20250831190341407.png)
 
 ## 基本概念
 

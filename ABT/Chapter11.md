@@ -6,7 +6,7 @@
 
 以<font color=red>第9期</font>内容中优惠券弹窗实验为例，假设在进行实验数据回收时发现实验组相对对照组的人均GMV有提升，但是结果不显著，你会如何处理呐？请停下来思考10秒钟哦~
 
-![image-20250824104201750](/Users/kimzhao/Documents/gongzhonghao/PublicArticle/ABT/Chapter11.assets/image-20250824104201750.png)
+![image-20250824104201750](./Chapter11.assets/image-20250824104201750.png)
 
 ## 内容框架
 
@@ -15,7 +15,7 @@
 - 基本的处理思路
 - 方差缩减技术
 
-![image-20250907195633533](/Users/kimzhao/Documents/gongzhonghao/PublicArticle/ABT/Chapter11.assets/image-20250907195633533.png)
+![image-20250907195633533](./Chapter11.assets/image-20250907195633533.png)
 
 ## 处理思路
 
@@ -27,7 +27,7 @@
 
   一般而言，第二种原因无法直接证明的，因此我们会先进行第一种原因的验证，如果第一种原因不能成立，我们才会认为实验策略无效。基本的流程可以参考下图：
 
-  ![image-20250907133951117](/Users/kimzhao/Documents/gongzhonghao/PublicArticle/ABT/Chapter11.assets/image-20250907133951117.png)
+  ![image-20250907133951117](./Chapter11.assets/image-20250907133951117.png)
 
 ## 方差缩减
 
